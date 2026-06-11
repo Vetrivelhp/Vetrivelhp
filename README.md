@@ -16,11 +16,6 @@ DeepLabV3+ + HDRNet + Noise2Void pipeline for intelligent image enhancement.
 Task management system supporting nested tasks and user authentication.
 
 ---
-## 🎉Interested in:
-- 🖼️ Computer Vision
-- 🤖 Artificial Intelligence
-- 📚 Full Stack Development
----
 ## 🔥 Currently Working On
 - Secure Notes App
 - React Task-manager
