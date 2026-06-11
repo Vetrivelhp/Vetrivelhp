@@ -1,15 +1,15 @@
 # Hello, I'm Vetrivel 👋 
 ---
-### I enjoy building fast and robust software.
+IT Graduate focused on building fast, stable, and robust software systems.
+
+I enjoy solving complex problems and creating applications that prioritize performance, reliability, and real-world usability.
 ---
 ## Interested in:
 - Computer Vision
 - Artificial Intelligence
-- Computer Graphics
 - Full Stack Development
 ---
 ## Currently Working On
-
 - Secure Notes App
 - React Task-manager
 ---
