@@ -56,11 +56,32 @@ Task management system supporting nested tasks and user authentication.
 
 ## ✨ Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style-social&logo=linkedin&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style-social&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style-social&logo=gmail&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style-social&logo=telegram&logoColor=white)
-![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style-social&logo=chessdotcom&logoColor=white)
+```html
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://discord.gg/YOUR_INVITE_CODE">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://www.chess.com/member/YOUR_CHESS_USERNAME">
+  <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white">
+</a>
+
+</div>
+```
+
 
 ---
 <h3 align="center"> Build | Break | Fix </h3>
