@@ -63,20 +63,6 @@ Task management system supporting nested tasks and user authentication.
 ![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style-social&logo=chessdotcom&logoColor=white)
 
 ---
-<h3 align="center"> b
----
-## 📌 Featured Projects
-
-### 🔐 Secure Notes App
-Encrypted note-taking application with master password authentication and backup restoration.
-
-### 🌙 Low-Light Image Enhancement
-DeepLabV3+ + HDRNet + Noise2Void pipeline for intelligent image enhancement.
-
-### 📋 Flask Task Manager
-Task management system supporting nested tasks and user authentication.
-
----
 ## 🎉Interested in:
 - 🖼️ Computer Vision
 - 🤖 Artificial Intelligence
