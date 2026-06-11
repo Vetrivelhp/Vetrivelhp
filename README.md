@@ -1,16 +1,18 @@
-<h1 align+"center">Hello, I'm Vetrivel 👋 </h1>
-
+<h1 align="center">Hello, I'm Vetrivel 👋 </h1>
+---
+I enjoy building fast and robust software.
+---
 Interested in:
 - Computer Vision
 - Artificial Intelligence
 - Computer Graphics
 - Full Stack Development
-
+---
 ## Currently Working On
 
 - Secure Notes App
 - React Task-manager
-
+---
 ## Featured Projects
 
 ### 🔐 Secure Notes App
@@ -27,7 +29,7 @@ Task management system supporting nested tasks and user authentication.
 ## Tech Stack
 
 Languages:
-Python, JavaScript, SQL
+Python, JavaScript, SQL, Java
 
 Frameworks:
 Flask, PyTorch
