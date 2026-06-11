@@ -1,7 +1,7 @@
-# Hello, I'm Vetrivel 👋 
+<h1 align="center"> Hello, I'm Vetrivel 👋 </h1>
 ---
-
 IT Graduate focused on building fast, stable, and robust software systems. I enjoy solving complex problems and creating applications that prioritize performance, reliability, and real-world usability.
+
 ---
 ## Featured Projects
 
@@ -13,6 +13,7 @@ DeepLabV3+ + HDRNet + Noise2Void pipeline for intelligent image enhancement.
 
 ### 📋 Flask Task Manager
 Task management system supporting nested tasks and user authentication.
+
 ---
 ## Interested in:
 - Computer Vision
