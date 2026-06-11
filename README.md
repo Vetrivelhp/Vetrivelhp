@@ -1,4 +1,4 @@
-# Hi, I'm Vetrivel 👋
+<h1 align+"center">Hello, I'm Vetrivel 👋 </h1>
 
 Interested in:
 - Computer Vision
