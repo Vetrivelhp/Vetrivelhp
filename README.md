@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Vetrivel 👋 </h1>
 ---
-I enjoy building fast and robust software.
+###I enjoy building fast and robust software.
 ---
-Interested in:
+##Interested in:
 - Computer Vision
 - Artificial Intelligence
 - Computer Graphics
