@@ -4,7 +4,7 @@
 IT Graduate focused on building fast⚡, stable🛡, and robust🚀 software systems. I enjoy solving complex problems and creating applications that prioritize performance, reliability, and real-world usability.
 
 ---
-## Featured Projects
+## 📌 Featured Projects
 
 ### 🔐 Secure Notes App
 Encrypted note-taking application with master password authentication and backup restoration.
@@ -16,17 +16,17 @@ DeepLabV3+ + HDRNet + Noise2Void pipeline for intelligent image enhancement.
 Task management system supporting nested tasks and user authentication.
 
 ---
-## Interested in:
-- Computer Vision
-- Artificial Intelligence
-- Full Stack Development
+## 🎉Interested in:
+- 🖼️ Computer Vision
+- 🤖 Artificial Intelligence
+- 📚 Full Stack Development
 ---
-## Currently Working On
+## 🔥 Currently Working On
 - Secure Notes App
 - React Task-manager
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -51,10 +51,12 @@ Task management system supporting nested tasks and user authentication.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-A4C639?style=for-the-badge&logo=android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+---
+<h3 align="center"> Build | Break | Fix </h3>
 
 ---
 
-## Connect With Me
+## ✨ Connect With Me
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style-social&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style-social&logo=discord&logoColor=white)
