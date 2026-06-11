@@ -51,8 +51,6 @@ Task management system supporting nested tasks and user authentication.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-A4C639?style=for-the-badge&logo=android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
----
-<h3 align="center"> Build | Break | Fix </h3>
 
 ---
 
@@ -63,3 +61,6 @@ Task management system supporting nested tasks and user authentication.
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style-social&logo=gmail&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style-social&logo=telegram&logoColor=white)
 ![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style-social&logo=chessdotcom&logoColor=white)
+
+---
+<h3 align="center"> Build | Break | Fix </h3>
