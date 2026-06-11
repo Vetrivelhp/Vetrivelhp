@@ -56,7 +56,6 @@ Task management system supporting nested tasks and user authentication.
 
 ## ✨ Connect With Me
 
-```html
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
@@ -80,7 +79,6 @@ Task management system supporting nested tasks and user authentication.
 </a>
 
 </div>
-```
 
 
 ---
