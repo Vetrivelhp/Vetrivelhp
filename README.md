@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Vetrivel 👋
 
-<!--
-**Vetrivelhp/Vetrivelhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in:
+- Computer Vision
+- Artificial Intelligence
+- Computer Graphics
+- Full Stack Development
 
-Here are some ideas to get you started:
+## Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Secure Notes App
+- React Task-manager
+
+## Featured Projects
+
+### 🔐 Secure Notes App
+Encrypted note-taking application with master password authentication and backup restoration.
+
+### 🌙 Low-Light Image Enhancement
+DeepLabV3+ + HDRNet + Noise2Void pipeline for intelligent image enhancement.
+
+### 📋 Flask Task Manager
+Task management system supporting nested tasks and user authentication.
+
+---
+
+## Tech Stack
+
+Languages:
+Python, JavaScript, SQL
+
+Frameworks:
+Flask, PyTorch
+
+Tools:
+Git, GitHub, SQLite
+
+---
+
+## GitHub Stats
+
+(Add GitHub Stats card)
+
+---
+
+## Connect With Me
+
+LinkedIn
+Email
