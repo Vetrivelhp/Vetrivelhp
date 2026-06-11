@@ -56,14 +56,8 @@ Task management system supporting nested tasks and user authentication.
 
 ## ✨ Connect With Me
 
-<div align="center">
-
 <a href="https://www.linkedin.com/in/vetrivel-m-060438328/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://discord.gg/YOUR_INVITE_CODE">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 <a href="mailto:vetrivel8394@gmail.com">
@@ -77,8 +71,6 @@ Task management system supporting nested tasks and user authentication.
 <a href="https://www.chess.com/member/VetrivelVictor">
   <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white">
 </a>
-
-</div>
 
 
 ---
