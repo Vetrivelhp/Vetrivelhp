@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Vetrivel 👋 </h1>
+![banner](github_banner.png)
 
 ---
 IT Graduate focused on building fast ⚡, stable 🛡, and robust 🚀 software systems. I enjoy solving complex problems and creating applications that prioritize performance, reliability, and real-world usability.
