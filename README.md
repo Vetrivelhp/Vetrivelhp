@@ -58,7 +58,7 @@ Task management system supporting nested tasks and user authentication.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/vetrivel-m-060438328/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -66,15 +66,15 @@ Task management system supporting nested tasks and user authentication.
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:vetrivel8394@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+<a href="https://t.me/VetriVictor">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-<a href="https://www.chess.com/member/YOUR_CHESS_USERNAME">
+<a href="https://www.chess.com/member/VetrivelVictor">
   <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white">
 </a>
 
