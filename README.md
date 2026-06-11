@@ -1,8 +1,8 @@
 # Hello, I'm Vetrivel 👋 
 ---
-IT Graduate focused on building fast, stable, and robust software systems.
 
-I enjoy solving complex problems and creating applications that prioritize performance, reliability, and real-world usability.
+IT Graduate focused on building fast, stable, and robust software systems. I enjoy solving complex problems and creating applications that prioritize performance, reliability, and real-world usability.
+
 ---
 ## Interested in:
 - Computer Vision
