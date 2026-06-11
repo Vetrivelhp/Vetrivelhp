@@ -6,13 +6,13 @@ IT Graduate focused on building fast ⚡, stable 🛡, and robust 🚀 software 
 ---
 ## 📌 Featured Projects
 
-### 🔐 Secure Notes App
+** 🔐 Secure Notes App **
 Encrypted note-taking application with master password authentication and backup restoration.
 
-### 🌙 Low-Light Image Enhancement
+** 🌙 Low-Light Image Enhancement **
 DeepLabV3+ + HDRNet + Noise2Void pipeline for intelligent image enhancement.
 
-### 📋 Flask Task Manager
+** 📋 Flask Task Manager **
 Task management system supporting nested tasks and user authentication.
 
 ---
